@@ -46,8 +46,8 @@ This project offers:
 
 ### Prerequisites
 
-- Node.js (v14+), npm or yarn
-- Running database instance (MongoDB, PostgreSQL)
+- python and tkinter installed in system
+- Running database instance  (Sqlite3) in CMD
 
 ### Setup Steps
 
@@ -98,11 +98,10 @@ Access the app at `http://localhost:3000`.
 
 ---
 
-## 🙌 Contributing
-
-Feel free to submit PRs, open issues, or suggest features. Please follow project coding conventions and include relevant tests.
+## 🙌 Contribution for a coursework in Python.
 
 ---
+
 
 
 
