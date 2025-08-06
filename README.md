@@ -1,7 +1,7 @@
-# DBMS-Movie-Ticket-Booking-System
-# 🎫 Ticket Management System
 
-A comprehensive **Ticket Management System** designed to handle support, issue, or service tickets efficiently—ideal for teams, help desks, or event ops.
+# 🎫 Movie Ticket Management System
+
+A comprehensive **Ticket Management System** designed to handle support, issue, or service tickets efficiently—ideal for movie screenings and other events.
 
 ---
 
@@ -10,12 +10,9 @@ A comprehensive **Ticket Management System** designed to handle support, issue, 
 This project offers:
 
 - CRUD operations for tickets: create, view, update, delete
-- Status tracking: opened, in-progress, resolved, closed
-- Role-based access (e.g. Admin, Staff, User)
-- (Optional) Notification system or email alerts
-- (Optional) Dashboard or API endpoints
-
----
+- Option to update the content of tables
+- Option to book and print tickets of any movie selected
+  
 
 ## 📁 Project Structure
 
@@ -38,10 +35,10 @@ This project offers:
 
 ## 🛠 Technologies Used
 
-- **Backend**: Node.js & Express
-- **Database**: MongoDB or PostgreSQL
-- **Frontend**: React.js or HTML/CSS/JS
-- **Auth**: JWT or session-based authentication
+- **Backend**: Python
+- **Database**: SQLITE3
+- **Frontend**: Python tkinter
+- **Auth**: Password based authentication
 
 ---
 
@@ -106,6 +103,7 @@ Access the app at `http://localhost:3000`.
 Feel free to submit PRs, open issues, or suggest features. Please follow project coding conventions and include relevant tests.
 
 ---
+
 
 
 
